@@ -22,6 +22,3 @@ I have created a Todo application using HTML, CSS and Vanilla JavaScript.
 5.Netlify (Link is added "")
 
 
-### Sample Screenshot(Design the way you want it, this is just a sample)
-
-![Screenshot 2022-06-30 at 00 56 40](https://user-images.githubusercontent.com/60100544/176565419-ce227836-6536-47aa-9d04-92bb4fc5928a.png)
