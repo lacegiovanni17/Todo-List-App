@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="images/todofavicon.ico" />
+    <script
+      src="https://kit.fontawesome.com/1b408f493b.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="style/index.css" />
+    <title>Todo App</title>
+  </head>
+  <body>
+    <!-- Write your implementation here -->
+    <header>
+      <h1>ToDo List App</h1>
+    </header>
+    <div class="head">
+      <!-- <i class="fa fa-search" aria-hidden="true" id="topsearch"></i> -->
+      <input id="topsearch" type="text" placeholder="search" />
+    </div>
+
+    <div class="container">
+      <div id="add-task-container">
+        <input
+          class="addInput"
+          type="text"
+          id="input-task"
+          placeholder="Enter task"
+        />
+        <button id="add-task">
+          Add task
+          <i class="fa-regular fa-square-plus"></i>
+        </button>
+      </div>
+      <div id="task-container"></div>
+    </div>
+    <script src="script/index.js"></script>
+  </body>
+</html>
