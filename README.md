@@ -19,6 +19,6 @@ I have created a Todo application using HTML, CSS and Vanilla JavaScript.
 
 4.Users are able to search for todos.
 
-5.Netlify (Link is added "")
+5.URL todolist-app-by-chidike.netlify.app
 
 
